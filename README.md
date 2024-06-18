@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mananjdev
 - 👀 I’m interested in coding  
-- 🌱 I’m currently learning C    
+- 🌱 I’m currently learning C
+- I'm also learning Web devevolpment   
 - 💞️ I’m looking to collaborate on learning with me
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
